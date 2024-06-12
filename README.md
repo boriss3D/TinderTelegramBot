@@ -25,18 +25,20 @@ By integrating ChatGPT, we enable our bot to understand and generate human-like 
 
 To get started with the Smart Dating Assistant Telegram Bot, follow these steps:
 
-1. Create your Telegram Bot and get its name and token. Get your ChatGPT token.
-2. Clone the repository:
+Create your Telegram Bot and get its name and token. Get your ChatGPT token.
+
+Clone the repository:
 ```bash
 git clone https://github.com/boriss3D/TinderTelegramBot.git
 ```
-3. Create config.properties file and set up your environment variables for the Telegram API and OpenAI API keys.
+Create config.properties file and set up your environment variables for the Telegram API and OpenAI API keys.
 ```
 bot.token=put Telegram token here
 gpt.token=put GPT token here
 ```
-4. Update BOT_USER_NAME.
-5. Or your can play with the Demo - [t.me/TinderTelegramAiBot](URL)
+Update BOT_USER_NAME.
+
+Or your can play with the Demo - [t.me/TinderTelegramAiBot](https://t.me/TinderTelegramAiBot)
 
 ### Contributions
 
