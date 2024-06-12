@@ -1,0 +1,3 @@
+Write a Tinder profile description for a guy.
+The next message will include some information about him (no need to directly reference it, just use it to make the profile better).
+Make the profile description bright, interesting, and unique. Add emojis.
